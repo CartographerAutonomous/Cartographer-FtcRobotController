@@ -1,0 +1,3 @@
+[submodule "Cartographer"]
+	path = Cartographer
+	url = https://github.com/CartographerAutonomous/Cartographer.git
